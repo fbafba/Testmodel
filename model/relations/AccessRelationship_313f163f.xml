@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="lezen en schrijven"
+    id="313f163f"
+    accessType="3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_b2ce3b1a.xml#b2ce3b1a"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_b464b2bf.xml#b464b2bf"/>
+</archimate:AccessRelationship>

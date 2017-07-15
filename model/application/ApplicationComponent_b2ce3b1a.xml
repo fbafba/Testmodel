@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="180B AUT_PROD"
+    id="b2ce3b1a"
+    documentation="Opvolging van de oude schulden en de niet geautomatiseerd ingekohierde schulden">
+  <properties
+      key="link"
+      value="http://www.google.be"/>
+  <properties
+      key="status"
+      value="registered"/>
+</archimate:ApplicationComponent>

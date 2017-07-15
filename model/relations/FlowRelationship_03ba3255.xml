@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="telefoon"
+    id="03ba3255">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_e82ade7f.xml#e82ade7f"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_23131305.xml#23131305"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,18 @@
+<archimate:SketchModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="architectuur"
+    id="50f94d74"
+    background="0">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="986ea6fe"
+      name="FODFIN"
+      fillColor="#ffffff">
+    <bounds
+        x="300"
+        y="84"
+        width="409"
+        height="277"/>
+  </children>
+</archimate:SketchModel>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="e-mail, letter"
+    id="e76504bf">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_69cdb8eb.xml#69cdb8eb"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_9aa69699.xml#9aa69699"/>
+</archimate:FlowRelationship>

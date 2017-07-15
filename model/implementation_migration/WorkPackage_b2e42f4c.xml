@@ -1,0 +1,8 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="workpackage2"
+    id="b2e42f4c">
+  <properties
+      key="status"
+      value="registered"/>
+</archimate:WorkPackage>

@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="email"
+    id="295ac1d0"
+    documentation="zeer ongewenste relatie !!!&#xD;&#xA;Het zou veel beter zijn moesten deze e-mails in het contactcenter en in de ICT-servicedesk worden gelezen en (indien nodig) omgezet worden in tickets.">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_e82ade7f.xml#e82ade7f"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_708cb80c.xml#708cb80c"/>
+</archimate:FlowRelationship>

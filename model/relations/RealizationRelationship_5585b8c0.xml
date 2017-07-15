@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="realiseert doelstelling uit BuCa"
+    id="5585b8c0">
+  <source
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_6d4f6f77.xml#6d4f6f77"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_167d3999.xml#167d3999"/>
+</archimate:RealizationRelationship>
