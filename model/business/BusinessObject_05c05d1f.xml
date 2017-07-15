@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BuCa 1"
-    id="05c05d1f"/>
+    id="05c05d1f"
+    documentation="Een een beetje documentatie erbij.">
+  <properties
+      key="status"
+      value="OK"/>
+</archimate:BusinessObject>
